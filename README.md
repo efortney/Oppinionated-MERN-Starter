@@ -1,4 +1,4 @@
-# Mern Start
+# Mern Starter
 My oppinionated MERN starter with redux.
 
 # Project Set Up 
